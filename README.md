@@ -57,7 +57,8 @@ The analysis followed these steps:
 ## **Key Insights**
 
 1. **Top Performing Content**:
-   - Educational and motivational content in the "Studying" and "Career" categories received the highest positive sentiment and scores.
+   - Content related to "Animals", "Science" and "Healthy Eating" have the most engagements.
+   - However, the "Public Speaking", "Technology" and "Education" categories have the highest positive sentiment rates.
 
 2. **Timing Patterns**:
    - Peak engagement occurred on weekday mornings (9 AM–11 AM) and early evenings (6 PM–8 PM).
