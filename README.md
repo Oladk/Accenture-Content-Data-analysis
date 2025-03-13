@@ -61,15 +61,13 @@ The analysis followed these steps:
    - However, the "Public Speaking", "Technology" and "Education" categories have the highest positive sentiment rates.
 
 2. **Timing Patterns**:
-   - Peak engagement occurred on weekday mornings (9 AM–11 AM) and early evenings (6 PM–8 PM).
-   - Late-night content had lower positive sentiment.
+   - Peak engagement occurred on Monday and Friday, early in the mornings (around 6 AM) and late at night (around 11 PM).
+   - Positive reactions rates are highest at 9 pm .
+   - Overall, positive sentiments consistently outnumber negative sentiments.
 
-3. **Low-Performing Content**:
-   - Entertainment and lifestyle categories showed lower engagement and scores, often due to a lack of clear value or relevance.
-
-4. **Reaction Trends**:
-   - Positive reactions were more frequent for actionable and relatable content.
-   - Negative reactions correlated strongly with vague or overly opinionated posts.
+3. **Reaction Trends**:
+   - Content in the Public Speaking category shows a higher proportion of Positive sentiments (59.2%), while Cooking content has a significant share of Negative sentiments (32.91%).
+   - Photos consistently generate more positive sentiments but in terms of rates, the audio contents have the higher rates.
 
 ---
 
@@ -89,16 +87,17 @@ The analysis followed these steps:
 
 The project includes several visualizations to support the analysis:
 - Distribution of reaction types across content categories.
+- Distribution of total Engagement by Category
 - Sentiment trends over time.
 - Engagement patterns by day of the week and time of day.
-- High vs low score ratios for different content types.
+- High vs Low Scoring Reactions by Hour and Day.
 
 ---
 
 ## **Key Recommendations**
 
-1. Focus on educational and motivational content to maintain user engagement.
-2. Schedule posts during peak engagement hours (weekday mornings and evenings).
+1. Focus on educational, animals and science content to maintain user engagement.
+2. Schedule posts during peak engagement hours (Monday and Friday, early in the mornings and late at night).
 3. Experiment with reformatting low-performing content to align with successful patterns.
 4. Use data-driven methods to optimize combinations of content type, category, and timing.
 
