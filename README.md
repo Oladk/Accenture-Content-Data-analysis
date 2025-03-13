@@ -1,4 +1,4 @@
-# User Engagement Analysis Project
+# Accenture User Engagement Analysis Project
 
 This repository contains the analysis and insights derived from user engagement data across different content types, categories, reaction types, and time periods. The goal of this project was to understand user preferences and provide actionable recommendations to improve content strategy.
 
@@ -107,4 +107,4 @@ The project includes several visualizations to support the analysis:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/user-engagement-analysis.git
+   git clone https://github.com/Oladk/Accenture-Content-Data-analysis.git
